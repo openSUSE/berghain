@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.3.0](https://github.com/DropMorePackets/berghain/compare/v0.2.0...v0.3.0) (2026-06-26)
+
+
+### Features
+
+* **web:** skip countdown if zero ([34abd33](https://github.com/DropMorePackets/berghain/commit/34abd334c4747bcafe63dd202a11da0b969a78fb))
+* **web:** toggle bootstrap elements ([d019e5a](https://github.com/DropMorePackets/berghain/commit/d019e5adcd4b1861d0848009f0406eee467fb8c4))
+
 ## [0.2.0](https://github.com/DropMorePackets/berghain/compare/v0.1.1...v0.2.0) (2025-06-18)
 
 
